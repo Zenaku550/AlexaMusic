@@ -244,6 +244,11 @@ bash start
 
 <p><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
+<p align="center">
+    <a href="https://render.com/deploy?repo=https://github.com/zenakumusicvip22/maythusharmusic">
+        <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" width="220" height="38.45"/>
+    </a>
+</p>
 
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
