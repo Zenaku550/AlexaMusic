@@ -111,7 +111,7 @@ Through this repository, we hope to share our passion for music and innovation w
 - [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
 - [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
 - [ᴍᴏɴɢᴏᴅʙ URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://github.com/TheTeamAlexa/AlexaMusic/blob/master/genstring.py)
+- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://github.com/Zenaku550/AlexaMusic/blob/master/genstring.py)
 
 <summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
 <br>
@@ -149,7 +149,7 @@ sudo pip3 install -U pip
 
 4. Clone the Repository
 ```console
-git clone https://github.com/TheTeamAlexa/AlexaMusic && cd AlexaMusic
+git clone https://github.com/Zenaku550/AlexaMusic && cd AlexaMusic
 ```
 
 5. Install Requirements
@@ -204,7 +204,7 @@ sudo pip3 install -U pip
 
 4. Clone the Repository
 ```console
-git clone https://github.com/TheTeamAlexa/AlexaMusic && cd AlexaMusic
+git clone https://github.com/Zenaku550/AlexaMusic && cd AlexaMusic
 ```
 
 5. Install Requirements
